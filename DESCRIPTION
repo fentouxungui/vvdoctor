@@ -1,6 +1,6 @@
 Package: vvdoctor
 Title: Statistical Test App with R 'shiny'
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: 
   c(person(given = "Tomer", 
            family = "Iwan", 
@@ -30,15 +30,16 @@ URL: https://github.com/vusaverse/vvdoctor,
         https://vusaverse.github.io/vvdoctor/
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 Imports: datamods, DescTools, DT, exact2x2, irr, magrittr, rintrojs,
-        rstatix, shiny, shinyjs, shinyWidgets
+        rstatix, shiny, shinycssloaders, shinyjs, shinyWidgets
 NeedsCompilation: no
-Packaged: 2024-04-25 18:54:27 UTC; tin900
+Packaged: 2025-08-20 12:06:04 UTC; tin900
 Author: Tomer Iwan [aut, cre],
-  Corneel Den Hartogh [ctb] (<https://orcid.org/0000-0001-8347-7944>),
+  Corneel Den Hartogh [ctb] (ORCID:
+    <https://orcid.org/0000-0001-8347-7944>),
   Jesús Blanco [ctb],
   VU Analytics [cph]
 Maintainer: Tomer Iwan <t.iwan@vu.nl>
 Repository: CRAN
-Date/Publication: 2024-04-27 18:10:02 UTC
+Date/Publication: 2025-08-20 12:20:02 UTC
